@@ -124,3 +124,13 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+EMAIL_HOST = 'smtp.hostinger.in'
+EMAIL_HOST_USER = 'shubham.rathore@vssolutionz.in'
+EMAIL_HOST_PASSWORD = 'BhcpIR0!vP'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+#BhcpIR0!vP paypal password
+#shubham.rathore@vssolutionz.in
+#admin@vssolutionz.in
+#3>||!by^Zp
